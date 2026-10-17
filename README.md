@@ -38,7 +38,7 @@ I have contributed to the development and maintenance of multiple real-world bus
 
 ## 📂 Projects
 
-**Library Management System: ASP.NET Core Web API**
+**[Library Management System: ASP.NET Core Web API](https://github.com/EssraaAbdElRahman/library-management-system-api)**
 RESTful API with 3-Tier architecture, JWT authentication, role-based authorization (Admin/Librarian), Soft Delete and Audit Trail, Global Exception Handling, FluentValidation, AutoMapper, and unit tests (xUnit, Moq, FluentAssertions).
 
 **Hospital Management System: ASP.NET Core MVC**
