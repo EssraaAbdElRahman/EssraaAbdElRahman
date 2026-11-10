@@ -41,7 +41,7 @@ I have contributed to the development and maintenance of multiple real-world bus
 **[Library Management System: ASP.NET Core Web API](https://github.com/EssraaAbdElRahman/library-management-system-api)**
 RESTful API with 3-Tier architecture, JWT authentication, role-based authorization (Admin/Librarian), Soft Delete and Audit Trail, Global Exception Handling, FluentValidation, AutoMapper, and unit tests (xUnit, Moq, FluentAssertions).
 
-**Hospital Management System: ASP.NET Core MVC**
+**Hospital Management System: ASP.NET Core MVC (Private Project)**
 Role-based access control with a dynamic permission matrix, user management with ASP.NET Identity, and search, filtering and pagination with EF Core.
 
 **[CSharp-Fundamentals-CleanCode](https://github.com/EssraaAbdElRahman/CSharp-Fundamentals-CleanCode)** (in progress)
