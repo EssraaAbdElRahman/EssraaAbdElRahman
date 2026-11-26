@@ -65,7 +65,7 @@ A modular backend API for team collaboration, project management, task tracking,
 - Implemented real-time chat and read receipts using SignalR.
 - Added FluentValidation, centralized exception handling, Swagger documentation, and xUnit tests.
 
-**[Live Demo – Swagger UI](https://collabspaceai2.runasp.net/index.html)**
+**[Live Demo – Swagger UI](http://collabspaceai2.runasp.net/index.html)**
 
 ### 2. Hospital Management System
 
